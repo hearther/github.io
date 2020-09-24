@@ -1,0 +1,25 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "com.maktar.qubiipro",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    },
+    "appclips": {
+        "apps": [
+            "com.maktar.qubiipro.Clip",
+            "com.maktar.qubiipro"
+        ]
+    },
+    "activitycontinuation": {
+        "apps": [
+	        "com.maktar.qubiipro.Clip",
+            "com.maktar.qubiipro"
+        ]
+    }
+}
